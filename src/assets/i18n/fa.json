@@ -1,0 +1,16 @@
+{
+  "ERROR": "خطا",
+  "OPERATION": "عملیات",
+  "PAGENOTFOUND": "با عرض پوزش صفحه مورد نظر یافت نشد",
+  "BADREQUESTMESSAGE": "اطلاعات به صورت صحیح ارسال نمی شود",
+  "UNAUTHORIZEMESSAGE": "دسترسی به این سرویس مقدور نیست",
+  "FORBIDENMESSAGE": "مجوز ارسال درخواست از سمت سرور داده نشد",
+  "NOTFOUNDMESSAGE": "سرویس مورد نظریافت نشد",
+  "INTERNALSERVERMESSAGE": "خطا از سمت سرور رخ داده است",
+  "METHODNOTALLOWEDMESSAGE": "پارامتر ارسال شده اشتباه است",
+ "TITLE": "چالش فیدیبو",
+  "HOME": "خانه",
+  "ABOUT": "درباره ما",
+  "CONTACT": "تماس با ما",
+  "fidibo_challenge": "چالش فیدیبو"
+}
